@@ -18,7 +18,7 @@
       "value": "Standard_DS12"
     },
     "vmCount": {
-      "value": 2
+      "value": "-1a" 
     }
   }
 }
