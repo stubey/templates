@@ -1,1 +1,24 @@
-xxx
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "adminPassword": {
+      "value": "tom_admin_password"
+    },
+    "domainName": {
+      "value": "tom_domain_name"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "newStorageAccountName": {
+      "value": "tom_storage_account"
+    },
+    "vmCount": {
+      "value": 2
+    },
+    "vmSize": {
+      "value": "Standard_DS12"
+    }
+  }
+}
