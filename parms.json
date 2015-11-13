@@ -12,7 +12,7 @@
       "value": "West US"
     },
     "newStorageAccountName": {
-      "value": "tom_storage_account2"
+      "value": "tom_storage_account"
     },
     "vmCount": {
       "value": 2
