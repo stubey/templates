@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminPassword": {
-      "value": "tom_admin_password"
+      "value": "tom-pw-A"
     },
     "domainName": {
-      "value": "tom_domain_name"
+      "value": "tom-dn"
     },
     "location": {
       "value": "West US"
     },
     "newStorageAccountName": {
-      "value": "tom_storage_account"
+      "value": "tom1storage1account"
     },
     "vmCount": {
       "value": 2
